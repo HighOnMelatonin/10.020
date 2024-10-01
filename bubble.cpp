@@ -24,8 +24,9 @@ int main()
 
     for (int i = 0; i < 10; i++)
     {
-        cout << array[i] << endl;
+        cout << array[i] << " ";
     }
+    cout << endl;
 
     return 0;
 }
